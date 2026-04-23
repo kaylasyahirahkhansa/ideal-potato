@@ -1,4 +1,7 @@
 # The Four Foundations
+
+<img src="4logo.png" width="100" alt="logo">
+
 Every system, whether an organization, an organism, or a person, follows simillar four-layer logic.
 
 **1. Organization** Open Systems → Resource Dependence Theory → Contingency Theory → Organizational Ecology
