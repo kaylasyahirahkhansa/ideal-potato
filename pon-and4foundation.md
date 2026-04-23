@@ -123,7 +123,27 @@ Consciousness is not a direct expression of Pon, but an emergent abstraction ari
 | *"Only viable configurations endure. The universe is not designed; it is stabilized."* | *"Markets select out organizations that cannot sustain themselves. Environments eliminate organisms that cannot survive. Only the fullest expression of potential represents the form that endures."* |
 
 ## Verdics
-
 Existence creates condition, condition creates pressure, pressure creates adaptation, and adaptation creates persistence.
 
 Existence is basically persistency of viable configuration. This apply to everything even to the metaphysical level.
+
+## DISCLAIMER
+This framework is a personal synthesis. It reflects my own understanding and is not intended as a formal academic contribution, nor as a claim of objective truth.
+
+I am not interested in:
+
+- Defending it
+- Debating it
+- Proving it
+- Validating it
+
+It is not for approval. It is not for critique. It exists because my own personal view demanded to be written clearly. Nothing more.
+
+If you find it useful, use it. If you don't, don't. 
+
+## References
+Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature and design. Harvard University Press.
+
+Katz, D., & Kahn, R. L. (1966). The social psychology of organizations. Wiley.
+
+Tansley, A. G. (1935). The use and abuse of vegetational concepts and terms. Ecology, 16(3), 284–307. https://doi.org/10.2307/1930070
