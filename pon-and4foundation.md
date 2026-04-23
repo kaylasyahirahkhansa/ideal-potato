@@ -59,7 +59,7 @@ The insight here is not simply that context matters. **It is that the system and
 
 This also relate to my metaphysical view called Pon: 
 
-True nothingness, an absolute void, may never have existed. Instead, what we call “nothing” contains latent potential. This potential isn’t guided by rules or laws yet; it exists in a state of pure possibility. Because there are no restrictions in true nothingness, all possibilities are present in potential form. From this unrestricted space, something can arise not from cause, but from the inherent freedom of non-being. In this, “something” is not separate from “nothing.” Rather, something is simply structured nothing. If nothing means the absence of things, and all things are made of relationships rather than substance, then nothing has never truly ceased to exist. Something is just self-organizing nothingness, a temporary stabilization of potential that is always already there. When considering the multiverse, this perspective remains grounded. While multiple universes may exist, whether through quantum branching or cosmic inflation — their existence doesn’t change the fundamental log ic of emergence from potential. Each universe still follows the same basic principles: it arises from potential, undergoes change, and forms structures that persist only if they are stable. Thus, the multiverse does not fundamentally alter the syllogism of being. Time is simply our way of measuring change. The Big Bang was not a beginning in the traditional sense, but a shift in the state of the universe, one of infinitely many changes occurring in a field of fluctuating information. There is no start, no end, just measured changes.
+True nothingness, an absolute void, may never have existed. Instead, what we call “nothing” contains latent potential. This potential isn’t guided by rules or laws yet; it exists in a state of pure possibility. Because there are no restrictions in true nothingness, all possibilities are present in potential form. From this unrestricted space, something can arise not from cause, but from the inherent freedom of non-being. In this, “something” is not separate from “nothing.” Rather, something is simply structured nothing. If nothing means the absence of things, and all things are made of relationships rather than substance, then nothing has never truly ceased to exist. Something is just self-organizing nothingness, a temporary stabilization of potential that is always already there. When considering the multiverse, this perspective remains grounded. While multiple universes may exist, whether through quantum branching or cosmic inflation, their existence doesn’t change the fundamental log ic of emergence from potential. Each universe still follows the same basic principles: it arises from potential, undergoes change, and forms structures that persist only if they are stable. Thus, the multiverse does not fundamentally alter the syllogism of being. Time is simply our way of measuring change. The Big Bang was not a beginning in the traditional sense, but a shift in the state of the universe, one of infinitely many changes occurring in a field of fluctuating information. There is no start, no end, just measured changes.
 This leads to the conclusion that the universe has no goal or purpose. It simply changes without direction. Complexity emerges not because the universe “wants” it, but because certain configurations are viable and self-sustaining. The structures we see, galaxies, stars, life, intelligence, are not preordained, but are outcomes of stability in change. In physics, Pon resembles quantum vacuum fluctuations and zero-point energy, but goes further by suggesting a state before any physical laws or constants. It is more primordial than string theory landscapes or loop quantum gravity, which assume mathematical or rule-based foundations. Pon precedes all of these.
 
 What makes Pon unique is its combination of neutrality, pre-structure potential, and self-stabilization. It rejects the idea that all imaginable things must exist somewhere, instead asserting that only viable configurations endure. This puts it in contrast with naïve multiverse theories that suggest every possibility must manifest given enough time. Multiverse is possible, but not in a way the world multivetse framework describes.
@@ -81,13 +81,12 @@ Consciousness is not a direct expression of Pon, but an emergent abstraction ari
 
 **Foundation 4:** Selection retains what works and in Pon only viable configurations persist.
 
-## Verdics
-So basically the four foundation are:
+### So basically the four foundation are:
 
-1. Existence
+1. Existence **(which result into conditions from how enviroment are already predetermined)**
 2. Pressure
 3. Adaptation
-4. Peristence
+4. Persistence
 
 ## THE FOUR FOUNDATIONS FINAL FORM:
 
@@ -99,7 +98,7 @@ So basically the four foundation are:
 | 4 | **Persistence** | Org Ecology | Natural Selection | Self-Actualization | Only viable configurations endure |
 
 ## WHY PON FITS:
-## Foundation 1: Existence
+## Foundation 1: Existence 
 
 | Pon | The Four Foundations |
 |-----|----------------------|
@@ -122,3 +121,9 @@ So basically the four foundation are:
 | Pon | The Four Foundations |
 |-----|----------------------|
 | *"Only viable configurations endure. The universe is not designed; it is stabilized."* | *"Markets select out organizations that cannot sustain themselves. Environments eliminate organisms that cannot survive. Only the fullest expression of potential represents the form that endures."* |
+
+## Verdics
+
+Existence creates condition, condition creates pressure, pressure creates adaptation, and adaptation creates persistence.
+
+Existence is basically persistency of viable configuration. This apply to everything even to the metaphysical level.
