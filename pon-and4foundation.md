@@ -1,6 +1,6 @@
 # The Four Foundations
 
-<img src="4logo.png" width="100" alt="logo">
+<img src="1.png" width="100" alt="logo">
 
 Every system, whether an organization, an organism, or a person, follows simillar four-layer logic.
 
@@ -126,6 +126,8 @@ Consciousness is not a direct expression of Pon, but an emergent abstraction ari
 | *"Only viable configurations endure. The universe is not designed; it is stabilized."* | *"Markets select out organizations that cannot sustain themselves. Environments eliminate organisms that cannot survive. Only the fullest expression of potential represents the form that endures."* |
 
 ## Verdics
+![image](2.png)
+
 Existence creates condition, condition creates pressure, pressure creates adaptation, and adaptation creates persistence.
 
 Existence is basically persistency of viable configuration. This apply to everything even to the metaphysical level.
