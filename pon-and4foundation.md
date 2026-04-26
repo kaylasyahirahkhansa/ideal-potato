@@ -1,4 +1,4 @@
-# The Four Foundationsss
+# The Four Foundations
 
 <img src="1.png" width="100" alt="logo">
 
