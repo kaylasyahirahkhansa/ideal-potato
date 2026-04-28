@@ -37,7 +37,7 @@ What is happiness?
 
 Does status guarantee contentment?
 
-> There is no consistent evidence that external recognition recognition directly to inner satisfaction and personal fulfillment. Status may influence perception, but it does not reliably produce lasting contentment.
+> There is no consistent evidence that external recognition directly leads to inner satisfaction and personal fulfillment. Status may influence perception, but it does not reliably produce lasting contentment.
 
 Do I personally value status?
 
@@ -84,7 +84,7 @@ Information box:
 3. Fat cells, muscle cells, and bone cells: Years regeneration.
 4. Neurons (brain cells) and heart muscle cells: Lifetime, they largely do not replace themselves, neurons (the primary cells of the brain responsible for transmitting information) and heart muscle cells (the cells that power the heart's continuous contractions) remain. But their connections can continue to change.
 
-**When the pattern dissapear:**
+**When the pattern disappears:**
 
 When this flexibility is lost, pathology often appears. For example, when muscle tissue becomes unable to respond properly to insulin, it can contribute to metabolic disorders such as diabetes. When the heart muscle loses its ability to contract, it may lead to conditions like cardiomyopathy. It’s the same with the immune system. When signaling becomes dysregulated, it can begin to misidentify the body’s own tissues, resulting in autoimmune disease.
 
@@ -111,7 +111,7 @@ So there is no reason to assume it is the only organ that does not adapt.
 
 But the brain is unique because it can also be influenced by psychological factors. The reason is that psychological processes such as thoughts and emotions are produced by brain activity.
 
-So the brain ism't just influenced by physiological factors, it is also influenced by psychological ones. And since the brain is inherently influenced by multiple factors, it can be concluded that it is the sum of interacting systems that can change (adaptive system).
+So the brain isn't just influenced by physiological factors, it is also influenced by psychological ones. And since the brain is inherently influenced by multiple factors, it can be concluded that it is the sum of interacting systems that can change (adaptive system).
 
 **Now we can view the brain as an adaptive system that can change, this means it can change, and this change is known as neuroplasticity.**
 
@@ -126,7 +126,7 @@ You can't see your immune system learning a pathogen. You can't see your muscle 
 - You learned language as a child. 
 - You learned to walk. 
 - You learned to read. 
-- You're learning even right now. Every sentence you read might causes small changes in your brain.
+- You're learning even right now. Every sentence you read might cause small changes in your brain.
 
 You've been experiencing neuroplasticity your entire life, even if you aren't thinking of the word constantly.
 
@@ -134,7 +134,7 @@ You've been experiencing neuroplasticity your entire life, even if you aren't th
 
 If the body adapts, and the brain is part of the body, then the brain adapts.
 
-Hence your brain can change. So What feels like a permanent emotion today may not last until tomorrow because the brain follows the same law as an adaptive system (biology).
+Hence your brain can change. So what feels like a permanent emotion today may not last until tomorrow because the brain follows the same law as an adaptive system (biology).
 
 ## LET'S EXPLORE WHAT SYLLOGISM MEANS
 
